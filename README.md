@@ -30,13 +30,13 @@ I am a Software Engineer having 1+ years of experience in Java, Spring Boot, Mic
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/word" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Microsoft_Word_2013-2019_logo.svg" alt="word" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732033.png" alt="word" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Microsoft_PowerPoint_2013-2019_logo.svg" alt="powerpoint" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="powerpoint" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
