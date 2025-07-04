@@ -1,14 +1,14 @@
-![logo](https://www.learntek.org/blog/wp-content/uploads/2018/05/java2.jpg)
 <h1 align="center">Hi 👋, I'm Dinisha</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
 
 ## About Me :
 
-I am a Software Engineer having 1+ years of experience in Java, Spring Boot, Microservices, HTML, CSS, AngularJS, ReactJS.
+I am an Aspiring software developer with hands-on skills in Java, SQL, HTML, CSS, JavaScript and Microsoft Office tools.  
+Passionate about building web applications and visualizing data using Power BI.
 
  - 📫 How to reach me: dadedinisha6289@gmail.com  
- - 📝 [My LinkedIn](https://www.linkedin.com/in/dade-rahul-a33965209/)  
+ - 📝 [My LinkedIn](https://https://www.linkedin.com/in/dade-dinisha-139614281/)  
  - 🌐 [My Website]()
 
 
